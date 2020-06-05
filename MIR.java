@@ -57,10 +57,9 @@ public class MIR {
             }
             
         }
-        // System.out.println("\n\n############ OUTPUT ############\n");
-        // System.out.println(">>> " + output + " <<<\n");
-        // System.out.println("################################");
 
+        System.out.println("\n\n");
+  
         Out.show(output.toString());
 
     }
